@@ -1,0 +1,7 @@
+model1,model2,wilcoxon_stat,pvalue_wilcoxon
+LogisticRegression,KNN,4042.0,5.6243352471109325e-160
+LogisticRegression,DecisionTree,1.0,3.3358599511910646e-165
+LogisticRegression,RandomForest,0.0,3.325859118934513e-165
+KNN,DecisionTree,0.0,3.325859118934513e-165
+KNN,RandomForest,0.0,3.325859118934513e-165
+DecisionTree,RandomForest,0.0,3.325859118934513e-165
